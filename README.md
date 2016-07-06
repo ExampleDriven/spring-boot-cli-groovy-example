@@ -7,4 +7,6 @@ Then execute
 ```shell
 spring run app.groovy
 ```
+
+app.groovy is a similar one file web application as demonstrated in the [Node.JS](https://nodejs.org/en/about/) about page.
  
